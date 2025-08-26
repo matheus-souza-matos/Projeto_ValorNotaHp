@@ -19,13 +19,13 @@ A ferramenta foi projetada para ser rápida e direta, otimizando o tempo de emis
 Para rodar a aplicação, siga estes passos simples:                                                                                                                                         
     1. Certifique-se de ter o Java Development Kit (JDK) instalado na sua máquina. A versão utilizada neste projeto é a 17.                                                                
     2. Clone este repositório para o seu ambiente local:                                                                                                                                   
-       git clone https://github.com/seu-usuario/nome-do-repositorio.git                                                                                                                    
+           git clone https://github.com/seu-usuario/nome-do-repositorio.git                                                                                                                
     3. Navegue até o diretório do projeto:                                                                                                                                                 
-       cd nome-do-repositorio                                                                                                                                                              
+           cd nome-do-repositorio                                                                                                                                                          
     4. Compile o arquivo .java:                                                                                                                                                            
-       javac emissaoNotasEmpresa.java                                                                                                                                                      
+           javac emissaoNotasEmpresa.java                                                                                                                                                  
     5. Execute o programa a partir do terminal:                                                                                                                                            
-       java emissaoNotasEmpresa                                                                                                                                                            
+           java emissaoNotasEmpresa                                                                                                                                                        
 Siga as instruções exibidas na tela para inserir os valores e as opções desejadas. O programa irá fornecer o resultado detalhado dos cálculos.                                             
 
 ✒️ Autor                                                                                                                                                                                   
