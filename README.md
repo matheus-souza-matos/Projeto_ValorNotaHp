@@ -29,5 +29,5 @@ Para rodar a aplicação, siga estes passos simples:
 Siga as instruções exibidas na tela para inserir os valores e as opções desejadas. O programa irá fornecer o resultado detalhado dos cálculos.                                             
 
 ✒️ Autor                                                                                                                                                                                   
-    • Matheus Maos - 
+    • Matheus Matos - github.com/matheus-souza-matos
 
